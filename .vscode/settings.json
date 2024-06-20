@@ -1,0 +1,18 @@
+{
+	"files.exclude": {
+		"**/.git": true,
+		"**/.svn": true,
+		"**/.hg": true,
+		"**/CVS": true,
+		"**/.DS_Store": true,
+		"**/*.o": true,
+		"**/*.exe": true,
+	},
+	"files.associations": {
+		"*.m": "c",
+		"stdio.h": "c",
+		"dashboard.c": "cpp",
+		"ctype.h": "c"
+	},
+	"C_Cpp.errorSquiggles": "enabled"
+}

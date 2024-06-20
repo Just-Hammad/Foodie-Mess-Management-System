@@ -1,0 +1,32 @@
+Day
+BreakFast
+Lunch
+Dinner
+Monday
+Fried Egg + Paratha
+Aalu Palak
+Beef Shami
+Tuesday
+Naan Chana
+Kari Pakora + Rice
+Beef Pulao + Raita
+Wednesday
+AaluBhujia + Paratha
+Daal Mash
+Chicken Karhai
+Thursday
+Bread, Butter, Jam
+Aalu Gajar Matar
+Biryani
+Friday
+Egg Tomato Onion
+Daal Chaawal
+Aalu Beef Curry
+Saturday
+Aalu Paratha
+Aalu Teenday
+Aalu Cutlets + Daal
+Sunday
+Halwa Poori Channa
+Red Beans
+Chicken Pulao + Raita
